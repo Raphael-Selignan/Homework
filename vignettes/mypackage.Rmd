@@ -9,5 +9,15 @@ vignette: >
   %\VignetteEncoding{UTF-8}
 ---
 
+## Summary
 
-COUCOU LES COPAINS
+Hello, this package is various functions learnt during our first weeks on R. 
+Their use is mostly to interact with databases, read, write databases that were modifcated on R. Some focus on a database called "prenoms" which studies the repartition of first names in France. 
+
+## Detailed functions
+
+1. save_as_csv : save csv file under name given by user
+2. read_excel_multi :  import all sheets from an excel file
+3. my_csv_multi :  import all csv files from a given folder
+4. draw_a_name : plots the occurences of a name over the years
+5. draw_names :  plots several name distribution over the years
