@@ -2,7 +2,7 @@
 #'
 #' Enable to load, save and modify excel, csv files, and to work on the French first name database
 #'
-#' @name Homework
+#' @name homework
 #' @docType package
 #' @author Raphael Selignan <raphael.selignan@polytechnique.edu>
 NULL
