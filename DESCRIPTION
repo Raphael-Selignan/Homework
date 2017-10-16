@@ -3,7 +3,7 @@ Type: Package
 Title: Homework Due Monday
 Version: 0.1.0
 Author: Raphael Selignan
-Maintainer: Raphael Selignan <raphael.selignan@polytechnique.fr>
+Maintainer: Raphael Selignan <raphael.selignan@polytechnique.edu>
 Description: Stocks all the functions studied in class improved by the use of asserthat.
 License: GPL-3
 Encoding: UTF-8
